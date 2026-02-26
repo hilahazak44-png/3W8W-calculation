@@ -1,0 +1,2 @@
+Maximum distance in chain A:
+51.497910918793586 Angstrom
