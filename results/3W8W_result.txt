@@ -1,2 +1,3 @@
+PDB file: 3W8W.pdb
 Maximum distance in chain A:
-51.497910918793586 Angstrom
+74.78646894325203 Angstrom

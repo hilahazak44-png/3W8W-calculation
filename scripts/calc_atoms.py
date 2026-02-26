@@ -5,7 +5,7 @@ pdb = open("data/3W8W.pdb", "r")
 
 results = open("results/3W8W_result.txt", "w")
 
-# רשימה שתשמור את מיקום כל האטומים (x,y,z)
+# רשימה שתשמור את מיקום כל האטומים (x,y,z)/
 atoms = []
 
 # מעבר על הקובץ שורה שורה
